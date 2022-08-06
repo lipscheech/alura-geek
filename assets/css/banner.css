@@ -1,6 +1,6 @@
 .banner {
   background: url("../image/banner-image.png") no-repeat center / cover;
-  height: 45vh;
+  height: 50vh;
 }
 
 .banner-title, .banner-paragrafy {
@@ -8,9 +8,15 @@
   font-weight: bold;
 }
 .banner-title {
-  font-size: 43px;
+  font-size: 52px;
+  line-height: 61.05px;
 }
 
 .banner-paragrafy {
-    font-size: 18.3px;
+    font-size: 22px;
+    line-height: 25.93px;
+}
+
+.banner-button {
+    gap: 10px;
 }
