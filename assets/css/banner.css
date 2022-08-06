@@ -1,0 +1,16 @@
+.banner {
+  background: url("../image/banner-image.png") no-repeat center / cover;
+  height: 45vh;
+}
+
+.banner-title, .banner-paragrafy {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+}
+.banner-title {
+  font-size: 43px;
+}
+
+.banner-paragrafy {
+    font-size: 18.3px;
+}
