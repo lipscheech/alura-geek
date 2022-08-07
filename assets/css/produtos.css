@@ -1,0 +1,12 @@
+p {
+    margin: 0;
+}
+
+.galeria-produtos__tittle {
+  color: #464646;
+  font-size: 32px;
+}
+
+.galeria-produtos__description, .galeria-produtos__price {
+  color: #464646;
+}

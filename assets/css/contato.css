@@ -1,0 +1,14 @@
+p {
+    margin: 0;
+}
+
+.contato-list__link {
+    color: #464646;
+    font-size: 16px;
+    line-height: 18.78px;
+    text-decoration: none;
+}
+
+.contato {
+    background-color: #EAF2FD;
+}
